@@ -8,8 +8,8 @@ TLDR:
 *Suggests links to clothing on sale based on generated outfit
 
 ### Team Details
-* Aaron Kwah -> https://github.com/A2ron-k, 
-* Xavier -> 
+* Aaron Kwah -> https://github.com/A2ron-k
+* Xavier -> https://github.com/xavierkoo
 * Cyndie -> 
 
 ## Tech Stack 
